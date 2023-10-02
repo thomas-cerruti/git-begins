@@ -1,0 +1,7 @@
+il faut aller à l'endroit ou on veut cloner le répoertory et utlilisé la commande suivante
+git clone https://github.com/thomas-cerruti/git-begins/
+
+ensuite pour push il faut utlisé les trois commandes suivantes*
+-git add.
+-git commit -m "ce qu'on veut"
+-git push
