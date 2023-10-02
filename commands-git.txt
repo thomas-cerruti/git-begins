@@ -5,3 +5,5 @@ ensuite pour push il faut utlisé les trois commandes suivantes*
 -git add.
 -git commit -m "ce qu'on veut"
 -git push
+
+git pull
